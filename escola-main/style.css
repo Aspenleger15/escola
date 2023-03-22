@@ -1,0 +1,11 @@
+.cabeçalho {
+    background-color: rgba(255, 0, 221, 0.822);
+    color:white;
+    display: flex
+    ;
+}
+    
+
+.cabesalho-imagem{
+    width: 20%;
+}
