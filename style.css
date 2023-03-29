@@ -1,1 +1,15 @@
-header{background-color: rgba(0, 255, 242, 0.774);color:white;}
+.cabeçalho {
+    background-color: rgba(255, 0, 221, 0.822);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+ 
+.cabesalho-imagem{
+    width: 20%;   
+}
+
+.cabesalho-lista-item[
+    display 
+    
+]
